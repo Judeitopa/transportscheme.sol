@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "hardhat": "^3.17.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.20.4",
+    "typescript": "~6.0.3"
+  }
+}
